@@ -1,4 +1,4 @@
-package com.tom.exam;
+package com.yu.exam;
 
 public class BuyOneGetOneShopItem extends ShopItem {
     public BuyOneGetOneShopItem(String id,String name,int price){

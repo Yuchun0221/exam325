@@ -1,4 +1,4 @@
-package com.tom.exam;
+package com.yu.exam;
 
 public class ShoppingTester {
     public static void main(String[] args) {
